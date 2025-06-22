@@ -1,6 +1,5 @@
 'use client';
 import Image from 'next/image';
-import { useState } from 'react';
 import Wheel from './components/Wheel';
 import EnvironmentCards from './components/EnvironmentCards';
 
